@@ -1,5 +1,7 @@
 ### About me
-
+- 🎓 Student at School 21 & Moscow Institute of Electronic Technology
+- 🌱 I'm currently learning C & Python
+- 📫 Reach me 
 <!--
 **kvther1ne/kvther1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
