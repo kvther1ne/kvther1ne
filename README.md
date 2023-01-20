@@ -1,7 +1,7 @@
 ### About me
-🎓 Student at School 21 & Moscow Institute of Electronic Technology
-🌱 I'm currently learning C and Python
-📫 Reach me by [LinkedIn](https://www.linkedin.com/in/kvther1ne/), [email](mailto:ekaterinatabunshchikova@gmail.com)
+ 🎓 Student at School 21 & Moscow Institute of Electronic Technology
+ 🌱 I'm currently learning C and Python
+ 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/kvther1ne/), [email](mailto:ekaterinatabunshchikova@gmail.com)
 <!--
 **kvther1ne/kvther1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
