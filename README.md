@@ -4,6 +4,8 @@
 - 🌍 Speak English
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/kvther1ne/), [Telegram](https://t.me/kvther1ne), [email](mailto:ekaterinatabunshchikova@gmail.com)
 
+[![codewars](https://www.codewars.com/users/kvther1ne/badges/small)](https://travis-ci.com/username/projectname)
+
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>
