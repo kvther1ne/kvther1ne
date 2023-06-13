@@ -1,6 +1,6 @@
 ### About me
-- 🎓 Студентка "Школы 21" & Московского института Электронной Техники
-- 🌱 Изучаю C, C++ и Python
+- 🎓 Student at School 21 & Moscow Institute of Electronic Technology
+- 🌱 I'm currently learning C, C++ and Python
 - 🌍 Speak English
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/kvther1ne/), [Telegram](https://t.me/kvther1ne), [email](mailto:ekaterinatabunshchikova@gmail.com)
 
