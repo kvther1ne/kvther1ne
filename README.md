@@ -1,9 +1,3 @@
-### About me
-- 🎓 Student at School 21 & Moscow Institute of Electronic Technology
-- 🌱 I'm currently learning Frontend, also have projects using C, C++ and Python
-- 🌍 Speak English
-- 📫 Contact me by [LinkedIn](https://www.linkedin.com/in/kvther1ne/), [Telegram](https://t.me/kvther1ne), [email](mailto:ekaterinatabunshchikova@gmail.com)
-
 [![codewars](https://www.codewars.com/users/kvther1ne/badges/small)](https://www.codewars.com/users/kvther1ne)
 
 ### Languages and tools
